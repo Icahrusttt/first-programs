@@ -13,8 +13,4 @@ for letter in word:
             #print(f"{vowel} = {letter}")
             print(letter)
             v_count += 1
-        else:
-            #print(letter)
-            c_count += 1
 print(f"Vowel Count: {v_count}")
-print(f"Constanant Count: {c_count}")
